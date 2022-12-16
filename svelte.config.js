@@ -9,8 +9,8 @@ const config = {
 	preprocess: [
 		preprocess({
 			postcss: true
-		}),
-		vitePreprocess()
+		})
+		// vitePreprocess()
 	],
 
 	kit: {
